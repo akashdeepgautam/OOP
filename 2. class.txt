@@ -1,0 +1,4 @@
+#Class
+Class is a bluprint of object.
+Class is a logical grouping of code with variable and function specific to that Object.
+The main purpose of the class is to organize your code into individual components.

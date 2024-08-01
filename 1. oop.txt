@@ -1,0 +1,4 @@
+#OOP
+OOP stand for Object Oriented Programing, it is a programming pattern or style using which we can create small code group on real life objects. Objects like Car, User, Bank etc..
+The main purpose of OOP is to create a reusable code
+OOP brings modularity into your code, which means it splits our program into smaller individual modules that can be separated and recombined.

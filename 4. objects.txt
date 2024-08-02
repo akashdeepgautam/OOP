@@ -1,0 +1,5 @@
+#Object
+Objects are used to acces the properties and methods of the class.
+We need to create the object of a class and then start accessing the properties and call the methods of that class.
+Objects are also called as Instance of a class.
+We can create unlimited objects for a class.

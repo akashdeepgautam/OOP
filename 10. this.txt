@@ -1,0 +1,5 @@
+#$this
+$this keyword allow us to access properties  and methods of same class.
+$this indicates instance of this class.
+You don't have to declare $this keyword.
+$this always refer to the properties and methods of that class.

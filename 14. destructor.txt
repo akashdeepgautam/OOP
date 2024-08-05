@@ -1,0 +1,16 @@
+#What is destructor?
+Destructor are the magic mehods that gets loaded just before the instance of a class is destroyed.
+
+Purpose:
+The purpose of the destructor is clean up the activities.
+Example: Closing database connection and closing files.
+
+1. Perform clean up activity.
+2. Close database connection.
+3. Close file connection.
+4. Save the log file.
+5. Write activity logs end time.
+6. Free up resources.
+7. Save properties into a file.
+8. Save the cache.
+9. Seriallize the object.

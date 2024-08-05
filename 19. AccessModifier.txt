@@ -1,0 +1,4 @@
+#Access Modifiers:
+Access modifiers helps to restrict the access of properties or methods.
+Access modifiers are of three types: public, private and protected.
+They helps to hide properties and methods accessed from the object.

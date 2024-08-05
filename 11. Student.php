@@ -9,6 +9,34 @@
  */
 
 class Student{
-    public name;
-    public class;
+    public $name;
+    public $class;
+
+    function getName(): string{
+        return $this->name;
+    }
+    function setName($name){
+        $this->name = $name;
+    } 
+
+    function getClass(): string{
+        return $this->class;
+    }
+
+    function setClass($class){
+        $this->class = $class;
+    }
+
+    function printDetail(){
+        echo "$this->name is studying in $this->class class".PHP_EOL;
+    }
 }
+
+$student = new Student();
+$student->setName("John Doe");
+$student->setClass("6th");
+
+$student->printDetail();
+
+echo $student->getName().PHP_EOL;
+echo $student->getClass().PHP_EOL;

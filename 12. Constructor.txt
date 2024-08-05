@@ -1,0 +1,12 @@
+# What is constructor?
+ Every class has a magic method which gets called automatically.
+ Constructor are magic methods that gets loaded automatically when instance of a class is created.
+ 
+#Purpose of constructor:
+1. Initialize the properties of class.
+2. Initialize the database connection.
+3. Check is file exists.
+4. Open file before using it with methods
+5. Check api is reachable before the connection.
+6. Load a instance of a class.
+7. Load mandatory properties to execute the methods in class.

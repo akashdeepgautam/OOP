@@ -1,0 +1,4 @@
+#Private access modifiers:
+Private access modifier means it can be accessed only inside and can not be accessed from outside the class.
+Methods and properties has to marked as private to make it private methods and properties.
+Private access modifier can be applied only to the class properties and methods.
